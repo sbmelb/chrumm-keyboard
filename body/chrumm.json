@@ -88,8 +88,8 @@
     "thumbAngles":  [[0,   3,  18,  36], [  36,  18,   3,0]],
     "thumbOffsets": [[0,4.8],                       [0,4.8]] },
 "switch": {
-    "width": 14.1,
-    "depth": 13.9,
+    "width": 14.0,
+    "depth": 14.0,
     "pinHeight": 3.3,
     "innerHeight": 5,
     "outerMargin": 4,
@@ -97,11 +97,11 @@
     "floorMargin": 0.33,
     "entryChamfer": 0.4,
     "clipNotch": {
-        "width": 8,
+        "width": 10,
         "depth": 0.9,
-        "height": 1.4,
-        "taperAngle": 60,
-        "isSideways": 0 }},
+        "height": 1.2,
+        "taperAngle": 0,
+        "isSideways": 1 }},
 "encoder": {
     "width": 13.7,
     "depth": 12.8,
@@ -138,7 +138,7 @@
     "backCornerExtraMargin": 0.5,
     "frontFloorExtraMargin": 0 },
 "cable": {
-    "diameter": 4,
+    "diameter": 5,
     "minBendRadius": 4,
     "ziptieWidth": 3.6,
     "ziptieHeight": 1.8,
